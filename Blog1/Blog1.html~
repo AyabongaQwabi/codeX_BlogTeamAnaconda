@@ -1,0 +1,71 @@
+﻿<html>     
+  
+<head>
+
+
+<title> Blog1 </title>
+
+
+<link rel="Stylesheet" type="text/css" href="blog.css"> </head>
+
+
+
+
+
+
+
+
+
+<div class="Navigation">
+
+
+	
+        <a href="#">   Home &nbsp </a> 
+        <a href="#">   The Team &nbsp</a>       
+	
+
+</div>
+
+
+
+<body>
+
+<div class="MainParagraph">
+<h1> WHY ARE WE AT CODE <span STYLE="font-size:70px; color:#40FF00">X</span> ?</h1>
+</div>
+
+<div class="text">
+<p>
+
+We think coding is cool. The perception of it within the general public is still outdated. We want to update the image of a stereotypical coder and inspire young people to start coding by developing more coding skills at Project code X by also working on the real projects as Mr Andre said.In fact we could say not everybody should become a coder, but we would like to inspire as many as possible to give it a go.We have dreams to build something out of nothing,more specialy on developing to explore new ideas of managing businesses with technology devices included and our quallifications. 
+
+  
+
+
+
+<div id="buttons">
+<a href="#"><img src="n.png"></a>
+<a href="#"><img src="b.png"></a>
+</div>
+
+
+
+
+
+
+        
+ </p>       
+</div>
+
+<div class="footer">
+<small>PROUDLY BROUGHT TO YOU BY THE ANACONDA'S</small>
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
