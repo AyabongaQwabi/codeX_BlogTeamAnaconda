@@ -1,0 +1,26 @@
+.content{ width:34%;
+	  height:100%;
+          margin-left:20%;
+	  background:green;
+          opacity:.8;
+          border:1px solid white;
+	  position:absolute;
+	  padding:5%;
+	  margin-top:-30px;
+	}
+
+
+.Pictures{ width:10%;
+	  height:10%;
+	  background:white;
+	  border:1px solid green;
+	  opacity:0.8;
+	  transition-property: all;
+	  transition-duration: 1.5s;
+}
+
+.Pictures img:hover{transform:scale(1.4);}
+.Pictures img { width:10%;
+	  width : 220px;
+		
+}

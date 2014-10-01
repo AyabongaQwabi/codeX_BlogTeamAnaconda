@@ -1,0 +1,165 @@
+.MainHeading{
+		padding-left:5px;
+		opacity:.8;
+		
+		background-color: #0A2A0A;
+		font-weight: bold;
+		
+	       }
+body {
+	margin-left:25px;
+	margin-right:400px;
+	background:url(snake22.gif) no-repeat center center fixed;
+	background-size:cover;
+	color: yellow;
+	background-color: rgba(0, 0, 0, 0.75);
+	
+     }
+
+.blogpost-header
+{
+	
+	position:relative;	
+	margin-top:60px;
+	
+	
+
+ }
+
+
+.blogpost-text {
+	color : yellow;
+	background-color: rgba(0, 0, 0, 0.75);
+	padding : 20px;
+	transition-property: all;
+	transition-duration: 1.5s;
+    	border-radius: 10px;
+	font-weight: bold;
+	font-family: Arial;
+	font-size:20px;
+	border:1px solid yellowgreen;
+}
+.seemore
+{   
+	float: right;
+	padding-right: 1px;
+	
+	
+   }
+.sideboarder
+{
+	
+	margin-right: 20px;
+	margin-left : 950px;
+	
+	
+	position: absolute;
+	transition-property: all;
+	transition-duration: 1.5s;
+	background-color: rgba(0, 0, 0, 0.60);
+	
+}
+#footer {
+   
+	padding-right: 1px;
+	font-weight: bold;
+}
+.socialNetworks{
+
+width:100%;
+height:100%;
+top:100px;
+left:0px;
+
+margin-top:-128px;
+}
+.socialNetworks p {
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+    margin: 50px auto;
+    background: url(codex.png) center;
+    background-size:cover;
+    border:3px solid #BFFF00;
+    border-radius: 870px;
+    -webkit-animation: socialNetworks 0.9s infinite alternate;
+    -moz-animation: socialNetworks 0.9s infinite alternate;
+	margin-top: 100;
+}
+
+.socialNetworks p:nth-of-type(2) {
+     background:url(aya.jpg);
+     background-size:cover;
+     transform:scale(1.2);
+    -webkit-animation-delay: 0.3s;
+    -moz-animation-delay: 0.3s;
+}
+
+.socialNetworks p:nth-of-type(3) {
+     background:url(oyama.jpg);
+     background-size:cover;
+     transform:scale(1.2);
+    -webkit-animation-delay: 0.5s;
+    -moz-animation-delay: 0.5s;}
+
+.socialNetworks p:nth-of-type(4) 
+{
+     background:url(Sannie1.jpg);
+     background-size:cover;
+     transform:scale(1.2);
+    -webkit-animation-delay: 0.5s;
+    -moz-animation-delay: 0.5s;}
+    -webkit-animation-delay: 0.5s;
+    -moz-animation-delay: 0.5s;}
+
+.socialNetworks p:nth-of-type(5) {
+     background:url(lindani.jpg);
+     background-size:cover;
+     transform:scale(1.2);
+    -webkit-animation-delay: 0.5s;
+    -moz-animation-delay: 0.5s;}
+
+.socialNetworks p:nth-of-type(6) {
+     background:url(twitter.png);
+     background-size:cover;
+     transform:scale(1.2);
+    -webkit-animation-delay: 0.5s;
+    -moz-animation-delay: 0.5s;}
+
+.socialNetworks p:nth-of-type(7) {
+     background:url(facebook.png);
+     background-size:cover;
+     transform:scale(1.2);
+
+ 
+    -webkit-animation-delay: 0.5s;
+    -moz-animation-delay: 0.5s;}
+@keyframes socialNetworks {
+  0% {
+    width: 60px;
+    height: 40px;
+    
+     border:3px solid #BFFF00;
+     background:url(codex.png)center;
+    transform: translateY(0px);
+  }
+  100% {
+    width: 80px;
+    height: 60px;
+    
+    transform: translateY(20px);
+    
+    border:3px solid white;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
